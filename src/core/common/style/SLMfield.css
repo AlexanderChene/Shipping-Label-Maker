@@ -1,0 +1,30 @@
+.SLMInput> span{
+    display: inline-block;
+    width: 70px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.SLMInput> input{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 70%;
+}
+
+.dropdown{
+    display: inline-block;
+    width: 70%;
+}
+
+.rule{
+    margin-left: 80px;
+}
+
+.SLMRadio{
+    margin-top: 20px;
+}
+
+.SLMRadio>span{
+    margin-right: 20px;
+}
+
